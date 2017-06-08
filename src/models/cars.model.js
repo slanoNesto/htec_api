@@ -22,6 +22,20 @@ const model = {
             speed: 235,
             description: 'The Mazda3 (known as the Mazda Axela in Japan, a combination of "accelerate" and "excellent") is a compact car manufactured in Japan by Mazda. It was introduced in 2003 as a 2004 model, replacing the Familia/323/Protege.',
             name: 'Mazda 3'
+        },
+        {
+            id: 4,
+            image: apiUrl + '/cars/honda_civic.png',
+            speed: 177,
+            description: 'The Honda Civic is a line of small cars manufactured by Honda. Originally a subcompact, the Civic has gone through several generational changes, becoming both larger and more upmarket and moving into the compact car segment.',
+            name: 'Honda Civic'
+        },
+        {
+            id: 5,
+            image: apiUrl + '/cars/smart.png',
+            speed: 102,
+            description: 'Not so smart.',
+            name: 'Smart'
         }
     ]
 };
